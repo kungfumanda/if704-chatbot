@@ -89,3 +89,22 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: mood_angry
+  examples: |
+      - I am furious
+      - my anger is boiling
+      - this is infuriating
+      - I can't stand this anymore
+      - so angry right now
+      - extremely mad
+      - fuming with anger
+      - I'm really pissed off
+      - I am livid
+      - seething with rage
+      - this makes me furious
+      - I'm so mad
+      - angry
+      - very angry
+      - feeling outraged
+
