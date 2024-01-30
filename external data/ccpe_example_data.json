@@ -1,0 +1,555 @@
+[{
+    "conversationId": "CCPE-8e113",
+    "utterances": [ {
+      "index": 0,
+      "speaker": "ASSISTANT",
+      "text": "generally speaking what type of movies do you watch"
+    }, {
+      "index": 1,
+      "speaker": "USER",
+      "text": "I like thrillers a lot.",
+      "segments": [ {
+        "startIndex": 7,
+        "endIndex": 16,
+        "text": "thrillers",
+        "annotations": [ {
+          "annotationType": "ENTITY_NAME",
+          "entityType": "MOVIE_GENRE_OR_CATEGORY"
+        } ]
+      }, {
+        "startIndex": 0,
+        "endIndex": 22,
+        "text": "I like thrillers a lot",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_GENRE_OR_CATEGORY"
+        } ]
+      } ]
+    }, {
+      "index": 2,
+      "speaker": "ASSISTANT",
+      "text": "thrillers? for example?",
+      "segments": [ {
+        "startIndex": 0,
+        "endIndex": 9,
+        "text": "thrillers",
+        "annotations": [ {
+          "annotationType": "ENTITY_NAME",
+          "entityType": "MOVIE_GENRE_OR_CATEGORY"
+        } ]
+      } ]
+    }, {
+      "index": 3,
+      "speaker": "USER",
+      "text": "Zodiac's one of my favorite movies.",
+      "segments": [ {
+        "startIndex": 0,
+        "endIndex": 6,
+        "text": "Zodiac",
+        "annotations": [ {
+          "annotationType": "ENTITY_NAME",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      }, {
+        "startIndex": 0,
+        "endIndex": 34,
+        "text": "Zodiac's one of my favorite movies",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_GENRE_OR_CATEGORY"
+        } ]
+      } ]
+    }, {
+      "index": 4,
+      "speaker": "USER",
+      "text": "Zodiac the movie about a serial killer from the '60s or '70s, around there.",
+      "segments": [ {
+        "startIndex": 0,
+        "endIndex": 6,
+        "text": "Zodiac",
+        "annotations": [ {
+          "annotationType": "ENTITY_NAME",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      }, {
+        "startIndex": 0,
+        "endIndex": 74,
+        "text": "Zodiac the movie about a serial killer from the '60s or '70s, around there",
+        "annotations": [ {
+          "annotationType": "ENTITY_DESCRIPTION",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 5,
+      "speaker": "ASSISTANT",
+      "text": "Zodiac? oh wow ok, what do you like about that movie",
+      "segments": [ {
+        "startIndex": 0,
+        "endIndex": 6,
+        "text": "Zodiac",
+        "annotations": [ {
+          "annotationType": "ENTITY_NAME",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 6,
+      "speaker": "USER",
+      "text": "And I just think serial killers, in general, are interesting, so the movie was really good. And it was just neat to see that world. Like it went really in-depth. It was like almost 3 hours long, so you got to really feel like you were a part of that world and time period. And see what the detectives and the police did and the investigators.",
+      "segments": [ {
+        "startIndex": 4,
+        "endIndex": 90,
+        "text": "I just think serial killers, in general, are interesting, so the movie was really good",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      }, {
+        "startIndex": 96,
+        "endIndex": 130,
+        "text": "it was just neat to see that world",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      }, {
+        "startIndex": 137,
+        "endIndex": 160,
+        "text": "it went really in-depth",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      }, {
+        "startIndex": 162,
+        "endIndex": 271,
+        "text": "It was like almost 3 hours long, so you got to really feel like you were a part of that world and time period",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      }, {
+        "startIndex": 273,
+        "endIndex": 341,
+        "text": "And see what the detectives and the police did and the investigators",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 7,
+      "speaker": "ASSISTANT",
+      "text": "so you feel like you were part of that world ?"
+    }, {
+      "index": 8,
+      "speaker": "USER",
+      "text": "Yeah. It was really an immersive movie.",
+      "segments": [ {
+        "startIndex": 6,
+        "endIndex": 38,
+        "text": "It was really an immersive movie",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 9,
+      "speaker": "ASSISTANT",
+      "text": "if you were in the movie what character do you feel most relatable"
+    }, {
+      "index": 10,
+      "speaker": "USER",
+      "text": "Probably the main character, Robert Graysmith, just cuz he's awkward and bumbly. So, I guess that's the one I would be the closest to.",
+      "segments": [ {
+        "startIndex": 0,
+        "endIndex": 79,
+        "text": "Probably the main character, Robert Graysmith, just cuz he's awkward and bumbly",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 11,
+      "speaker": "ASSISTANT",
+      "text": "what scene do you like the best"
+    }, {
+      "index": 12,
+      "speaker": "USER",
+      "text": "Probably the most memorable one is the murder at the lake. Just cuz it's really vivid and horrific to watch. But it's very memorable.",
+      "segments": [ {
+        "startIndex": 68,
+        "endIndex": 132,
+        "text": "it's really vivid and horrific to watch. But it's very memorable",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 13,
+      "speaker": "ASSISTANT",
+      "text": "ok nice, any other similiar movies you have seen recently?"
+    }, {
+      "index": 14,
+      "speaker": "USER",
+      "text": "Not that I can think of."
+    }, {
+      "index": 15,
+      "speaker": "ASSISTANT",
+      "text": "how about different type of movies like Once Upon a Deadpool",
+      "segments": [ {
+        "startIndex": 40,
+        "endIndex": 60,
+        "text": "Once Upon a Deadpool",
+        "annotations": [ {
+          "annotationType": "ENTITY_NAME",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 16,
+      "speaker": "USER",
+      "text": "I haven't seen that.",
+      "segments": [ {
+        "startIndex": 0,
+        "endIndex": 19,
+        "text": "I haven't seen that",
+        "annotations": [ {
+          "annotationType": "ENTITY_OTHER",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 17,
+      "speaker": "ASSISTANT",
+      "text": "have you heard of that movie"
+    }, {
+      "index": 18,
+      "speaker": "USER",
+      "text": "I've heard of it, but I haven't seen it.",
+      "segments": [ {
+        "startIndex": 0,
+        "endIndex": 39,
+        "text": "I've heard of it, but I haven't seen it",
+        "annotations": [ {
+          "annotationType": "ENTITY_OTHER",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 19,
+      "speaker": "ASSISTANT",
+      "text": "would you be interested to watch it"
+    }, {
+      "index": 20,
+      "speaker": "USER",
+      "text": "Not particularly. I don't really like comic book movies that much. But I really wanted to see Deadpool, so I'd probably be more willing to watch that than most comic book movies.",
+      "segments": [ {
+        "startIndex": 94,
+        "endIndex": 102,
+        "text": "Deadpool",
+        "annotations": [ {
+          "annotationType": "ENTITY_NAME",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      }, {
+        "startIndex": 18,
+        "endIndex": 65,
+        "text": "I don't really like comic book movies that much",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_GENRE_OR_CATEGORY"
+        } ]
+      }, {
+        "startIndex": 107,
+        "endIndex": 177,
+        "text": "I'd probably be more willing to watch that than most comic book movies",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_GENRE_OR_CATEGORY"
+        } ]
+      }, {
+        "startIndex": 71,
+        "endIndex": 102,
+        "text": "I really wanted to see Deadpool",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 21,
+      "speaker": "ASSISTANT",
+      "text": "oh what makes deadpool different than the others?"
+    }, {
+      "index": 22,
+      "speaker": "USER",
+      "text": "I don't know. It just seems a unique concept and different, not just the standard superhero movie.",
+      "segments": [ {
+        "startIndex": 14,
+        "endIndex": 58,
+        "text": "It just seems a unique concept and different",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      }, {
+        "startIndex": 60,
+        "endIndex": 97,
+        "text": "not just the standard superhero movie",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 23,
+      "speaker": "USER",
+      "text": "And it's more of a comedy, so that's unique.",
+      "segments": [ {
+        "startIndex": 4,
+        "endIndex": 43,
+        "text": "it's more of a comedy, so that's unique",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 24,
+      "speaker": "ASSISTANT",
+      "text": "ok so you enjoy comedy as well, correct?"
+    }, {
+      "index": 25,
+      "speaker": "USER",
+      "text": "Yep, I think most people do.",
+      "segments": [ {
+        "startIndex": 5,
+        "endIndex": 27,
+        "text": "I think most people do",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_GENRE_OR_CATEGORY"
+        } ]
+      } ]
+    }, {
+      "index": 26,
+      "speaker": "ASSISTANT",
+      "text": "what type of movie you don't enjoy?"
+    }, {
+      "index": 27,
+      "speaker": "USER",
+      "text": "I'm not a big action movie fan like Die Hard or like Rambo movies. I don't hate them, I just think they're boring. Like I can't watch a lot of them, or else I get sick of them.",
+      "segments": [ {
+        "startIndex": 14,
+        "endIndex": 26,
+        "text": "action movie",
+        "annotations": [ {
+          "annotationType": "ENTITY_NAME",
+          "entityType": "MOVIE_GENRE_OR_CATEGORY"
+        } ]
+      }, {
+        "startIndex": 36,
+        "endIndex": 44,
+        "text": "Die Hard",
+        "annotations": [ {
+          "annotationType": "ENTITY_NAME",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      }, {
+        "startIndex": 53,
+        "endIndex": 58,
+        "text": "Rambo",
+        "annotations": [ {
+          "annotationType": "ENTITY_NAME",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      }, {
+        "startIndex": 0,
+        "endIndex": 65,
+        "text": "I'm not a big action movie fan like Die Hard or like Rambo movies",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_GENRE_OR_CATEGORY"
+        } ]
+      }, {
+        "startIndex": 67,
+        "endIndex": 113,
+        "text": "I don't hate them, I just think they're boring",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_GENRE_OR_CATEGORY"
+        } ]
+      }, {
+        "startIndex": 120,
+        "endIndex": 175,
+        "text": "I can't watch a lot of them, or else I get sick of them",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_GENRE_OR_CATEGORY"
+        } ]
+      } ]
+    }, {
+      "index": 28,
+      "speaker": "ASSISTANT",
+      "text": "what about mission impossible?",
+      "segments": [ {
+        "startIndex": 11,
+        "endIndex": 29,
+        "text": "mission impossible",
+        "annotations": [ {
+          "annotationType": "ENTITY_NAME",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 29,
+      "speaker": "USER",
+      "text": "Never seen it. I know what it is, but I haven't seen it.",
+      "segments": [ {
+        "startIndex": 0,
+        "endIndex": 13,
+        "text": "Never seen it",
+        "annotations": [ {
+          "annotationType": "ENTITY_OTHER",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      }, {
+        "startIndex": 15,
+        "endIndex": 55,
+        "text": "I know what it is, but I haven't seen it",
+        "annotations": [ {
+          "annotationType": "ENTITY_OTHER",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 30,
+      "speaker": "ASSISTANT",
+      "text": "do you care who acts in the movie?"
+    }, {
+      "index": 31,
+      "speaker": "USER",
+      "text": "Just in general? I'm not I'm not picky about actors. Like I won't see a movie just cuz I don't like the actor in it."
+    }, {
+      "index": 32,
+      "speaker": "ASSISTANT",
+      "text": "oh ok so you dont have a favorite actor is that right"
+    }, {
+      "index": 33,
+      "speaker": "USER",
+      "text": "I mean I like certain actors more than others, but I wouldn't say I have a favorite actor."
+    }, {
+      "index": 34,
+      "speaker": "ASSISTANT",
+      "text": "ok who came to your mind when it comes to actors you like to see in the movie"
+    }, {
+      "index": 35,
+      "speaker": "ASSISTANT",
+      "text": "what is your favorite Tom Hanks movie?",
+      "segments": [ {
+        "startIndex": 22,
+        "endIndex": 31,
+        "text": "Tom Hanks",
+        "annotations": [ {
+          "annotationType": "ENTITY_NAME",
+          "entityType": "PERSON"
+        } ]
+      } ]
+    }, {
+      "index": 36,
+      "speaker": "USER",
+      "text": "Catch Me If You Can",
+      "segments": [ {
+        "startIndex": 0,
+        "endIndex": 19,
+        "text": "Catch Me If You Can",
+        "annotations": [ {
+          "annotationType": "ENTITY_NAME",
+          "entityType": "MOVIE_OR_SERIES"
+        }, {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 37,
+      "speaker": "ASSISTANT",
+      "text": "what so great about that movie"
+    }, {
+      "index": 38,
+      "speaker": "USER",
+      "text": "It's just an interesting story and it's based on a true story and it's got Leonardo Dicaprio in it, another good actor.",
+      "segments": [ {
+        "startIndex": 75,
+        "endIndex": 92,
+        "text": "Leonardo Dicaprio",
+        "annotations": [ {
+          "annotationType": "ENTITY_NAME",
+          "entityType": "PERSON"
+        } ]
+      }, {
+        "startIndex": 0,
+        "endIndex": 30,
+        "text": "It's just an interesting story",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      }, {
+        "startIndex": 35,
+        "endIndex": 61,
+        "text": "it's based on a true story",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      }, {
+        "startIndex": 66,
+        "endIndex": 118,
+        "text": "it's got Leonardo Dicaprio in it, another good actor",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 39,
+      "speaker": "ASSISTANT",
+      "text": "do you think that movie is exciting?"
+    }, {
+      "index": 40,
+      "speaker": "USER",
+      "text": "Yep.",
+      "segments": [ {
+        "startIndex": 0,
+        "endIndex": 3,
+        "text": "Yep",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    }, {
+      "index": 41,
+      "speaker": "ASSISTANT",
+      "text": "which scene you find most memorable?"
+    }, {
+      "index": 42,
+      "speaker": "USER",
+      "text": "It's been a long time since I've seen that movie. I can't think of any specific scene.",
+      "segments": [ {
+        "startIndex": 0,
+        "endIndex": 48,
+        "text": "It's been a long time since I've seen that movie",
+        "annotations": [ {
+          "annotationType": "ENTITY_OTHER",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    } ]
+  }]
